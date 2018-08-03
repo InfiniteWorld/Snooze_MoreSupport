@@ -1,5 +1,5 @@
 {
-    "name": "pocketmine/snooze",
+    "name": "infiniteworld/snooze",
     "description": "Thread notification management library for code using the pthreads extension",
     "type": "library",
     "require": {
